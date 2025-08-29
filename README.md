@@ -10,6 +10,10 @@ Abre el archivo <b>Config.json</b> y configuralo
 
 <br>
 
+<br>
+para usar el bot:
+<img src="https://imgur.com/3CbD6Af">
+
 <b>Aviso:</b>
 <br>
 <img src="https://i.imgur.com/o0j5sKv.png">
