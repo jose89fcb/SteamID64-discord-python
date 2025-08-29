@@ -11,8 +11,8 @@ Abre el archivo <b>Config.json</b> y configuralo
 <br>
 
 <br>
-para usar el bot:
-<img src="https://imgur.com/3CbD6Af">
+para usar el bot: <b>/steamid usuario:jose89fcb</b>
+<img src="https://i.imgur.com/3CbD6Af.png">
 
 <b>Aviso:</b>
 <br>
